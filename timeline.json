@@ -1,0 +1,116 @@
+{
+ "title": "ZOMBIE APOCALYPSE — Hari Pertama",
+ "w": 1080,
+ "h": 1920,
+ "fps": 15,
+ "shots": [
+  {
+   "id": 1,
+   "clip": "c01",
+   "clip_dur": 3.48,
+   "start": 0.0,
+   "dur": 5.0,
+   "text": "Pagi itu, kota tidak bangun seperti biasa.",
+   "desc": "Dolly-in pelan, close-up pagi hangat"
+  },
+  {
+   "id": 2,
+   "clip": "c02",
+   "clip_dur": 3.288,
+   "start": 5.0,
+   "dur": 5.0,
+   "text": "Tidak ada suara motor. Tidak ada orang berangkat kerja.",
+   "desc": "Pan kiri-kanan pelan, wide jalan kosong"
+  },
+  {
+   "id": 3,
+   "clip": "c03",
+   "clip_dur": 2.88,
+   "start": 10.0,
+   "dur": 5.0,
+   "text": "Hanya langkah pelan dari ujung jalan.",
+   "desc": "Tracking pelan maju, langkah dari ujung jalan"
+  },
+  {
+   "id": 4,
+   "clip": "c04",
+   "clip_dur": 3.048,
+   "start": 15.0,
+   "dur": 5.0,
+   "text": "Mereka berjalan tanpa tujuan. Matanya kosong.",
+   "desc": "Static + slow push-in, zombie jauh"
+  },
+  {
+   "id": 5,
+   "clip": "c05",
+   "clip_dur": 3.0,
+   "start": 20.0,
+   "dur": 5.0,
+   "text": "Raka tahu satu hal: jangan buat suara.",
+   "desc": "Orbit 180 lambat mengelilingi Raka"
+  },
+  {
+   "id": 6,
+   "clip": "c06",
+   "clip_dur": 3.96,
+   "start": 25.0,
+   "dur": 5.0,
+   "text": "Ia kumpulkan makanan, air, dan obat secukupnya.",
+   "desc": "Dolly-out pelan, kumpulkan bekal"
+  },
+  {
+   "id": 7,
+   "clip": "c07",
+   "clip_dur": 3.672,
+   "start": 30.0,
+   "dur": 5.0,
+   "text": "Pintu dikunci. Jendela ditutup. Lampu dimatikan.",
+   "desc": "Tilt naik pintu ke wajah"
+  },
+  {
+   "id": 8,
+   "clip": "c08",
+   "clip_dur": 4.512,
+   "start": 35.0,
+   "dur": 5.0,
+   "text": "Di radio tua, suara terakhir berkata: tetap di dalam.",
+   "desc": "Static + slow push-in ke radio tua"
+  },
+  {
+   "id": 9,
+   "clip": "c09",
+   "clip_dur": 2.88,
+   "start": 40.0,
+   "dur": 5.0,
+   "text": "Tapi diam terlalu lama juga berbahaya.",
+   "desc": "Match cut terang ke gelap"
+  },
+  {
+   "id": 10,
+   "clip": "c10",
+   "clip_dur": 3.12,
+   "start": 45.0,
+   "dur": 5.0,
+   "text": "Ia harus cari jalan keluar sebelum malam datang.",
+   "desc": "Tracking jalan mengikuti Raka"
+  },
+  {
+   "id": 11,
+   "clip": "c11",
+   "clip_dur": 3.672,
+   "start": 50.0,
+   "dur": 5.0,
+   "text": "Karena saat gelap, mereka bergerak lebih cepat.",
+   "desc": "Crane naik + dolly-out wide gelap"
+  },
+  {
+   "id": 12,
+   "clip": "c12",
+   "clip_dur": 3.24,
+   "start": 55.0,
+   "dur": 5.0,
+   "text": "Hari pertama belum selesai. Dan Raka belum menyerah.",
+   "desc": "Dolly-in pelan, fade out lembut"
+  }
+ ]
+}
